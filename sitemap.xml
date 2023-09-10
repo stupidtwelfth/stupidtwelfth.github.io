@@ -3,7 +3,32 @@
     <url>
         <loc>http://stupidtwelfth.space/</loc>
         <lastmod>2023-09-10</lastmod>
-        <changefreq>daily</changefreq>
+        <changefreq>yearly</changefreq>
         <priority>1.0</priority>
+    </url>
+    </url>
+        <url>
+        <loc>http://stupidtwelfth.space/music.html</loc>
+        <lastmod>2023-09-10</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>http://stupidtwelfth.space/merch.html</loc>
+        <lastmod>2023-09-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://stupidtwelfth.space/detail/boxset.html</loc>
+        <lastmod>2023-09-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://stupidtwelfth.space/about.html</loc>
+        <lastmod>2023-09-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
     </url>
 </urlset>
